@@ -1,4 +1,4 @@
-# FitVerse v2.1 — Open-Source Exercise Photo Guide
+# FitVerse v2.1 
 
 FitVerse is a clear, modern frontend fitness prototype built with React and Vite. It helps users plan workouts, understand exercise form, replace unavailable exercises, track nutrition, review analytics and monitor progress.
 
@@ -38,12 +38,3 @@ npm audit
 ## Important note
 
 FitVerse is a frontend educational prototype. It does not provide medical diagnosis and is not a replacement for professional medical, training or nutrition advice. Data is saved only in the current browser through LocalStorage. Exercise photos come from the public-domain Free Exercise DB. The app is educational and is not a replacement for qualified coaching.
-
-
-## v2.0 replacement-image rebuild
-
-- Uses a unique media identity for every active exercise.
-- Replacing Hammer Curl with EZ-Bar Curl immediately changes both the title and photos.
-- Next, Previous and workout-queue navigation refresh photos without a page reload.
-- Development mode removes old FitVerse service workers and stale caches automatically.
-- `npm run verify:media` confirms the curl replacement photos are distinct local files.
