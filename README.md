@@ -1,4 +1,4 @@
-# FitVerse v2.0 — Open-Source Exercise Photo Guide
+# FitVerse v2.1 — Open-Source Exercise Photo Guide
 
 FitVerse is a clear, modern frontend fitness prototype built with React and Vite. It helps users plan workouts, understand exercise form, replace unavailable exercises, track nutrition, review analytics and monitor progress.
 
