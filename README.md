@@ -9,7 +9,7 @@ Plan workouts, learn exercise form with offline human-photo guides, replace exer
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open_FitVerse-7c3aed?style=for-the-badge)](https://ashik-codex.github.io/FitVerse--v2.1/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-111827?style=for-the-badge&logo=github)](https://github.com/ashik-codex/FitVerse--v2.1)
 
-![FitVerse Dashboard](docs/screenshots/01-dashboard.jpg)
+[![FitVerse Dashboard](./docs/screenshots/01-dashboard.jpg)](./docs/screenshots/01-dashboard.jpg)
 
 </div>
 
@@ -96,16 +96,16 @@ The app stores data in the browser with LocalStorage, so it can be demonstrated 
 
 <table>
   <tr>
-    <td width="50%"><strong>Workout Planner</strong><br><img src="docs/screenshots/02-workout-planner.jpg" alt="FitVerse Workout Planner"></td>
-    <td width="50%"><strong>Custom Workout Builder</strong><br><img src="docs/screenshots/03-workout-builder.jpg" alt="FitVerse Custom Workout Builder"></td>
+    <td width="50%"><strong>Workout Planner</strong><br><a href="./docs/screenshots/02-workout-planner.jpg"><img src="./docs/screenshots/02-workout-planner.jpg" alt="FitVerse Workout Planner"></a></td>
+    <td width="50%"><strong>Custom Workout Builder</strong><br><a href="./docs/screenshots/03-workout-builder.jpg"><img src="./docs/screenshots/03-workout-builder.jpg" alt="FitVerse Custom Workout Builder"></a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Live Workout</strong><br><img src="docs/screenshots/04-live-workout.jpg" alt="FitVerse Live Workout"></td>
-    <td width="50%"><strong>Exercise Library</strong><br><img src="docs/screenshots/05-exercise-library.jpg" alt="FitVerse Exercise Library"></td>
+    <td width="50%"><strong>Live Workout</strong><br><a href="./docs/screenshots/04-live-workout.jpg"><img src="./docs/screenshots/04-live-workout.jpg" alt="FitVerse Live Workout"></a></td>
+    <td width="50%"><strong>Exercise Library</strong><br><a href="./docs/screenshots/05-exercise-library.jpg"><img src="./docs/screenshots/05-exercise-library.jpg" alt="FitVerse Exercise Library"></a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Nutrition</strong><br><img src="docs/screenshots/06-nutrition.jpg" alt="FitVerse Nutrition"></td>
-    <td width="50%"><strong>Analytics</strong><br><img src="docs/screenshots/07-analytics.jpg" alt="FitVerse Analytics"></td>
+    <td width="50%"><strong>Nutrition</strong><br><a href="./docs/screenshots/06-nutrition.jpg"><img src="./docs/screenshots/06-nutrition.jpg" alt="FitVerse Nutrition"></a></td>
+    <td width="50%"><strong>Analytics</strong><br><a href="./docs/screenshots/07-analytics.jpg"><img src="./docs/screenshots/07-analytics.jpg" alt="FitVerse Analytics"></a></td>
   </tr>
 </table>
 
